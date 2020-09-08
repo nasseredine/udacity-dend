@@ -5,13 +5,25 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-## Project 1a: [Data Modeling with PostgreSQL](https://github.com/nasseredine/udacity-dend-p1a) (Relational Database)
+## Project 1a: [Data Modeling with Postgres](https://github.com/nasseredine/udacity-dend-p1a) (Relational Database)
 
 
 <br/>
 <p align="center"><img src="./images/postgresql.png" width="450px"/></p>
 
+Model user activity data to create a relational database and ETL pipeline in PostgreSQL for a music streaming app. Achievements include:
+- Installed PostgreSQL and configured a new user and database.
+- Designed an optimized **star schema** (i.e. with a **fact** and **dimensions** tables) with **normalized** tables (i.e. using constraints) for queries on song play analysis.
+- Built an ETL pipeline to extract data from `.json` files, transform incorrect values and insert them into the tables with **psycopg2**.
+- Ran test to verify the database creation.
+- Created examples queries and expected results.
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Framework-psycopg2-informational?style=flat&logoColor=white&color=336791)
+![](https://img.shields.io/badge/DB_design-Star_schema-informational?style=flat&logoColor=white&color=336791)
+![](https://img.shields.io/badge/DB_design-Normalization-informational?style=flat&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Process-ETL_pipeline-informational?style=flat&logoColor=white&color=336791)
 
 
 
