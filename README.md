@@ -8,8 +8,8 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 ## Project 1a: [Data Modeling with PostgreSQL](https://github.com/nasseredine/udacity-dend-p1a) (Relational Database)
 
 
-
-<img src="./images/postgresql.png" width="450px"/>
+<br/>
+<p align="center"><img src="./images/postgresql.png" width="450px"/></p>
 
 
 
@@ -19,7 +19,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-<img src="./images/apache_cassandra.png" width="450px"/>
+<p align="center"><img src="./images/apache_cassandra.png" width="450px"/></p>
 
 
 
@@ -29,7 +29,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-<img src="./images/amazon_redshift.png" width="450px"/>
+<p align="center"><img src="./images/amazon_redshift.png" width="450px"/></p>
 
 
 
@@ -39,7 +39,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-<img src="./images/apache_spark.png" width="450px"/>
+<p align="center"><img src="./images/apache_spark.png" width="450px"/></p>
 
 
 
@@ -49,7 +49,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-<img src="./images/apache_airflow.png" width="450px"/>
+<p align="center"><img src="./images/apache_airflow.png" width="450px"/></p>
 
 
 
