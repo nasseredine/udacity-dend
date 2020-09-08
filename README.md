@@ -33,7 +33,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-<!--
+
 
 ## Project 3: [Data Lake on AWS S3 using Apache Spark](https://github.com/nasseredine/udacity-dend-p3)
 
@@ -44,7 +44,7 @@ Check the program's [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/e
 
 
 
-
+<!--
 ## Project 4: [Data Pipelines with Airflow](https://github.com/nasseredine/udacity-dend-p4)
 
 
