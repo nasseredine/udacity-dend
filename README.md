@@ -65,16 +65,11 @@ Model event data to create a non-relational database and ETL pipeline in Apache 
 
 
 
-<!--
+
 ## Project 4: [Data Pipelines with Airflow](https://github.com/nasseredine/udacity-dend-p4)
 
 
 
 <p align="center"><img src="./images/apache_airflow.png" width="450px"/></p>
 
-
-
-
-
--->
 
