@@ -46,8 +46,16 @@ Model event data to create a non-relational database and ETL pipeline in Apache 
 
 Build a Data Warehouse and an ETL pipeline that extracts data from Amazon S3, stages them in Amazon Redshift, and transforms data into a set of dimensional tables for their analytics team.
 
+- Create an IAM role to make Redshift access S3 (read only).
+- Create a Security group to access Redshift from a specific IP address.
+- Create programmatically a Redshift Cluster and attaching the previous policies using `boto3` Python package.
+- Copy Data from S3 to staging tables in Redshift.
+- Transform the data using SQL (PostgreSQL) to create a set of dimensional analytics tables in Redshift.
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Data_Warehouse-Redshift-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Package-boto3-informational?style=flat&logoColor=white&color=336791)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Process-ETL_pipeline-informational?style=flat&logoColor=white&color=336791)
 
@@ -74,4 +82,5 @@ Improve the company's data infrastructure by creating and automating a set of da
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Plateform-Apache%20Airflow-informational?style=flat&logo=Apache%20Airflow&logoColor=white&color=007A88)
+![](https://img.shields.io/badge/Data_Warehouse-Redshift-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Process-Automate_data_pipelines-informational?style=flat&logoColor=white&color=336791)
